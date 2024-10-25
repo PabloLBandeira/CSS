@@ -1,0 +1,84 @@
+/* h1 {
+    background-color: blue;
+    color: azure;
+}
+
+h2 {
+    color: blue;
+}
+
+li {
+    color: brown;
+}
+
+li li {
+    color: green;
+}
+
+.fundo-verde li {
+    background: lightgreen;
+}
+
+.fundo-verde + #sublista-1 li{
+    color: black;
+}
+
+.fundo-azul li{
+    background: lightblue;
+}
+
+div p {
+    background: lightblue;
+}
+
+div > p {
+    color: red
+} */
+
+/* div + p {
+    color: tomato;
+} */
+
+/* div ~ p {
+    color: tomato;
+} */
+
+body {
+    background: lightgray;
+}
+
+li {
+    background: lightblue;
+}
+
+#pre-definidas {
+    color: tomato;
+}
+
+#current-color {
+
+}
+#hex {
+
+}
+
+#hex-transp {
+
+}
+
+#rgb {
+
+}
+
+#rgba {
+
+}
+
+#hsl {
+
+}
+
+#hsla{
+
+}
+
