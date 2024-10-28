@@ -43,42 +43,40 @@ div > p {
     color: tomato;
 } */
 
-body {
-    background: lightgray;
-}
+/* body {
+    background: lightgreen
+} */
 
-li {
-    background: lightblue;
-}
 
 #pre-definidas {
     color: tomato;
 }
 
 #current-color {
-
+    color: olivedrab;
+    border: 1px solid currentColor;
 }
 #hex {
-
+color: #a12020;
 }
 
 #hex-transp {
-
+    background: #a1202080
 }
 
 #rgb {
-
+    color: rgb(73, 30, 102);
 }
 
 #rgba {
-
+    background: rgba(73, 30, 102, 0.3);
 }
 
 #hsl {
-
+    color: hsl(280, 78%, 50%);
 }
 
 #hsla{
-
+    background: hsl(280, 78%, 50%, .6);
 }
 
